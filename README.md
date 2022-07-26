@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+## Homework sololutions for Machine Learning 2022 Spring
 
-You can use the [editor on GitHub](https://github.com/teacker/ML2022_HW/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Course page: [MACHINE LEARNING 2022 SPRING](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Teacher: HUNG-YI LEE (李宏毅)
 
-### Markdown
+### TODO
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Find and load all the solutions.
 
-```markdown
-Syntax highlighted code block
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">#HW</th>
+    <th class="tg-0lax">Topic</th>
+    <th class="tg-0lax">Simple baseline</th>
+    <th class="tg-0lax">Medium baseline</th>
+    <th class="tg-0lax">Strong baseline</th>
+    <th class="tg-0lax">Boss baseline</th>
+    <th class="tg-0lax">Ours</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">Regression</td>
+    <td class="tg-0lax">2.28371</td>
+    <td class="tg-0lax">1.49430</td>
+    <td class="tg-0lax">1.05728</td>
+    <td class="tg-0lax">0.86161</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">Classification</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+  
+<tbody>
+  <tr>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">Regression</td>
+    <td class="tg-0lax">2.28371</td>
+    <td class="tg-0lax">1.49430</td>
+    <td class="tg-0lax">1.05728</td>
+    <td class="tg-0lax">0.86161</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">CNN</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+  
+</table>
 
-# Header 1
-## Header 2
-### Header 3
+### HW1
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/teacker/ML2022_HW/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
