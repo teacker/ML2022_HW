@@ -39,18 +39,6 @@ Find and load all the solutions.
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
-</tbody>
-  
-<tbody>
-  <tr>
-    <td class="tg-0lax">1</td>
-    <td class="tg-0lax">Regression</td>
-    <td class="tg-0lax">2.28371</td>
-    <td class="tg-0lax">1.49430</td>
-    <td class="tg-0lax">1.05728</td>
-    <td class="tg-0lax">0.86161</td>
-    <td class="tg-0lax"></td>
-  </tr>
   <tr>
     <td class="tg-0lax">3</td>
     <td class="tg-0lax">CNN</td>
